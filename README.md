@@ -11,7 +11,6 @@
   <body>
     <h1>Kobal Ivan</h1>
     <p>Where is your coffee?</p>
-    <button color: green>Like!</button>
   </body>
 </html>
 
