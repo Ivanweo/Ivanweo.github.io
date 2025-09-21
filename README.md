@@ -10,10 +10,9 @@
     />
   </head>
   <body>
-    <img src="img.jpg.png" alt="Oops...Something gone wrong" />
-    <h1>Ivan Programist</h1>
+    <h1>Kobal Ivan</h1>
     <p>Where is your coffee?</p>
-    <button>Like!</button>
+    <button color: green>Like!</button>
   </body>
 </html>
 
